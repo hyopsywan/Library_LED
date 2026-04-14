@@ -15,7 +15,7 @@ void loop()
 
     if(LedBranco)
         LedBranco.alternar();
-    else
+    elseS
         LedBranco.alternar();
 
 }
